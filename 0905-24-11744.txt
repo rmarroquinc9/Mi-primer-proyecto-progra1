@@ -1,0 +1,11 @@
+ 1.¿Qué aprendiste sobre el flujo de trabajo con Git y 
+GitHub? Aprendí hacer mi primer repositorio, al principio me costo un poco también aprendí como usar desde Visual Studio Core, aprendí a escribir mensajes claros de los commits.
+
+2.¿Cómo fue la experiencia de trabajar en pareja? ¿Encontraste algún 
+conflicto? En si lo trabaje sola por el motivo que en el 2024 desde algoritmos, los compañeros que conocía adelantaron el curso. ¿Cómo lo resolviste? La Parte que mas me costo fue sincronizar Vual Studio Core, me tiraba un montón de errores y luego vi tutoriales y me ayudaron de mucho.
+
+
+3.¿Qué ventajas crees que tiene usar Git en proyectos de programación? Tiene muchas ventajas ya que permite guardar todo un historial de cambios realizados de mis proyecto. En una parte ayuda a trabajar en equipo sin que el código se sobre escriba sin embargo en mi opinión se tiene que saber usar si no si te pierdes un poco. 
+
+
+
